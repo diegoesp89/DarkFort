@@ -1,0 +1,18 @@
+Hall
+Room
+Void
+Pit
+Space
+Maze
+Passageway
+Bridge
+Arena
+Colosseum
+Graveyard
+Chasm
+Ruins
+Dormitory
+Kitchen
+Stairway
+Ballroom
+Torture Room
