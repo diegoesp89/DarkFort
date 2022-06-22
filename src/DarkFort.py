@@ -2,6 +2,15 @@ import random as rng
 import pygame as pg
 import os
 
+#TODO add all strong monsters
+#TODO add all scrolls effect
+#TODO Implement room table
+#TODO Implement peddler vendor
+#TODO Add the room shape
+#TODO set the starting room with its 4 options
+#TODO make the map visible
+#TODO level up the player
+
 room_quantity = 6
 rooms = []
 names_all = []
