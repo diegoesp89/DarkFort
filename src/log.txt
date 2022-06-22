@@ -1,0 +1,140 @@
+PS C:\Users\strif\Downloads\DarkFortCopilot> & C:/Users/strif/AppData/Local/Programs/Python/Python310/python.exe c:/Users/strif/Downloads/DarkFortCopilot/DarkFort/src/DarkFort.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Welcome to the Dark Fort
+1. New Game
+3. Exit
+Enter your choice: 1
+You are in Entrance
+You see:
+Pit Trap
+Weak Monster | Name: Catacomb Cultist | HP: 6
+Exits:
+The Full Of Ashes Torture Room Of Salt
+The Black Maze Of Obsidian
+
+What do you want to do?
+S. Start a new run
+A. Attack
+R. Run
+I. Check inventory
+P. Check stats
+Enter your choice: i
+Kargunt's inventory:
+Warhammer has 5 damage and 0 plus
+Armor "This armor is made of steel and has a -d4 damage" with 4 effect and 0 uses
+A. Equip armor (defense -d4 damage)
+Select an option: a
+You equipped armor with 4 defense
+Press enter to continue
+You are in Entrance
+You see:
+Pit Trap
+Weak Monster | Name: Catacomb Cultist | HP: 6
+Exits:
+The Full Of Ashes Torture Room Of Salt
+The Black Maze Of Obsidian
+
+What do you want to do?
+S. Start a new run
+A. Attack
+R. Run
+I. Check inventory
+P. Check stats
+Enter your choice: a
+What do you want to use?
+1 - Warhammer
+5 - Armor
+Enter the id of the item you want to use: 1
+You rolled a 1
+The weapon has a plus of 0
+You missed Catacomb Cultist!
+Catacomb Cultist hit you for 3 damage! (the armor absorved 1 damage)
+Press enter to continue
+You took 3 damage
+Press enter to continue
+You are in Entrance
+You see:
+Pit Trap
+Weak Monster | Name: Catacomb Cultist | HP: 6
+Exits:
+The Full Of Ashes Torture Room Of Salt
+The Black Maze Of Obsidian
+
+What do you want to do?
+S. Start a new run
+A. Attack
+R. Run
+I. Check inventory
+P. Check stats
+Enter your choice: a
+What do you want to use?
+1 - Warhammer
+5 - Armor
+Enter the id of the item you want to use: 1
+You rolled a 6
+The weapon has a plus of 0
+You hit Catacomb Cultist for 5 damage!
+Catacomb Cultist has 1 hp now
+Press enter to continue
+What do you want to use?
+1 - Warhammer
+5 - Armor
+Enter the id of the item you want to use: 1
+You rolled a 2
+The weapon has a plus of 0
+You missed Catacomb Cultist!
+Catacomb Cultist hit you for 2 damage! (the armor absorved 2 damage)
+Press enter to continue
+You took 2 damage
+Press enter to continue
+You are in Entrance
+You see:
+Pit Trap
+Weak Monster | Name: Catacomb Cultist | HP: 1
+Exits:
+The Full Of Ashes Torture Room Of Salt
+The Black Maze Of Obsidian
+
+What do you want to do?
+S. Start a new run
+A. Attack
+R. Run
+I. Check inventory
+P. Check stats
+Enter your choice: a
+What do you want to use?
+1 - Warhammer
+5 - Armor
+Enter the id of the item you want to use: 1
+You rolled a 5
+The weapon has a plus of 0
+You hit Catacomb Cultist for 5 damage!
+Catacomb Cultist has -4 hp now
+Press enter to continue
+Catacomb Cultist died!
+Catacomb Cultist dropped scroll
+You got 3 XP points
+You got False Omen Scroll!
+Press enter to continue
+You are in Entrance
+This room is already explored
+You see:
+Pit Trap
+Exits:
+The Full Of Ashes Torture Room Of Salt
+The Black Maze Of Obsidian
+
+What do you want to do?
+S. Start a new run
+I. Check inventory
+P. Check stats
+Enter your choice: p
+Kargunt has 10 hp of 15 hp
+Kargunt has 18 silver
+Kargunt has 3 xp
+Kargunt has 0 explored rooms
+Kargunt has 1 levels
+Kargunt has 4 defense
+Kargunt has 0 uses of the daemon
+Press enter to continue
